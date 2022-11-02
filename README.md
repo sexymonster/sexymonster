@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I'm JEHYEONG, Student, currently studying <b>Machine Learning</b>. And I am interested in <b>Reinfocement Learning</b></p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <!--
 **sexymonster/sexymonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
