@@ -13,5 +13,6 @@
   <li><a href="https://sexymonster.github.io/reinforcement/2022/10/18/RL1.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 강화학습 기초</b></a><br/><i>아직 작성중입니다...ㅠ</i></li>
 
 </ul>
--------------------------------
+
+------------
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
