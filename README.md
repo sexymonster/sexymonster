@@ -10,7 +10,8 @@
 </p>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://sexymonster.github.io/reinforcement/2022/10/18/RL1.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> 강화학습 기초</b></a><br/><i>아직 작성중입니다...ㅠ</i></li>
+  <li><a href="https://sexymonster.github.io/reinforcement/2022/11/06/DQN_trading.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> DQN을 이용한 주식 트레이딩(1)</b></a><br/><i>기초적인 주식 트레이딩 알고리즘</i></li>
+  <li><a href="https://sexymonster.github.io/reinforcement/2022/11/15/DQN_trading2.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> DQN을 이용한 주식 트레이딩(2)</b></a><br/><i>Update the DQNtrader</i></li>
 
 </ul>
 
